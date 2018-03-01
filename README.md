@@ -5,31 +5,33 @@ This is a [React](https://reactjs.org/) application _sandbox_ meant to test the 
 This sandbox was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## instructions
-Clone the repository in a suitable folder.
+Clone the repository into a suitable folder:
 
 `$ git clone git@github.com:bobmacneal/autocomplete-sandbox.git`
 
-Change directory to the cloned repository.
+Change directory to the cloned repository:
 
 `$ cd autocomplete-sandbox`
 
-Install the node package dependencies.
+Install the node package dependencies:
 
 `$ npm install`
 
-Runs the app. 
+Try it out. Start the app: 
 
 `npm start`
 
 
 ### demo
 
-After starting the app with `npm start`, open [http://localhost:3000](http://localhost:3000).
+After starting the app with `npm start`, open [http://localhost:3000](http://localhost:3000) in your browser. 
 
 ![screenshot](https://raw.githubusercontent.com/bobmacneal/autocomplete-sandbox/master/screenshot.png)
 
 Enter any letter in the `Search by name` input box. This will fetch a list of names. The list of names will be 
 filtered as you enter additional characters. Selecting a name will invoke an alert.
+
+**caveat:** I've only tested this on Chrome.
 
 ### miscellaneous
 
