@@ -21,13 +21,11 @@ Try it out. Start the app:
 
 `npm start`
 
-
 ### demo
 
 After starting the app with `npm start`, open [http://localhost:3000](http://localhost:3000) in your browser. 
 
 ![screenshot](https://raw.githubusercontent.com/bobmacneal/autocomplete-sandbox/master/screenshot.png)
-
 Enter any letter in the `Search by name` input box. This will fetch a list of names. The list of names will be 
 filtered as you enter additional characters. Selecting a name will invoke an alert.
 
