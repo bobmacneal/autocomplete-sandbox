@@ -1,6 +1,6 @@
 ## autocomplete-sandbox
 
-This is [React](https://reactjs.org/) application _sandbox_ meant to test the features, configuration, and styling  of the WAI-ARIA compliant [react-autocomplete](https://github.com/reactjs/react-autocomplete) (ComboBox) component.
+This is a [React](https://reactjs.org/) application _sandbox_ meant to test the features, configuration, and styling  of the WAI-ARIA compliant [react-autocomplete](https://github.com/reactjs/react-autocomplete) (ComboBox) component.
 
 This sandbox was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
