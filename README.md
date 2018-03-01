@@ -1,37 +1,37 @@
 ## autocomplete-sandbox
 
-This is sandbox to test the features of the WAI-ARIA compliant [react-autocomplete](https://github.com/reactjs/react-autocomplete) (ComboBox) component.
+This is [React](https://reactjs.org/) application _sandbox_ meant to test the features, configuration, and styling  of the WAI-ARIA compliant [react-autocomplete](https://github.com/reactjs/react-autocomplete) (ComboBox) component.
 
-This was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This sandbox was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## instructions
+Clone the repository in a suitable folder.
+
 `$ git clone git@github.com:bobmacneal/autocomplete-sandbox.git`
 
-Clone the repository in a suitable folder.
+Change directory to the cloned repository.
 
 `$ cd autocomplete-sandbox`
 
-Change directory to local repository.
+Install the node package dependencies.
 
 `$ npm install`
 
-Installs node package dependencies.
+Runs the app. 
 
 `npm start`
 
-Runs the app in the development mode. 
 
 ### demo
 
-Open [http://localhost:3000](http://localhost:3000) to test in your browser.
+After starting the app with `npm start`, open [http://localhost:3000](http://localhost:3000).
+
+![screenshot](https://raw.githubusercontent.com/bobmacneal/autocomplete-sandbox/master/screenshot.png)
 
 Enter any letter in the `Search by name` input box. This will fetch a list of names. The list of names will be 
 filtered as you enter additional characters. Selecting a name will invoke an alert.
 
-
-
-![screenshot](https://raw.githubusercontent.com/bobmacneal/autocomplete-sandbox/master/screenshot.png)
-
+### miscellaneous
 
 `npm test`
 
